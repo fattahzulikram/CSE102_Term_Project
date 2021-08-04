@@ -7,3 +7,4 @@ It is a very simple, like, too simple game where the player will control a gunma
 That's it.
 
 The project is written in C language. It uses iGraphics provided by our teachers.
+Maximum images & sounds that are used here are not mine. They are taken from the internet, all credits to them.
