@@ -1,5 +1,5 @@
 # CSE102_Term_Project
-First term project as a student of CSE.
+First term project as a student of CSE. It was a collaboration between me, A. Z. M Mehedi Hasan & Shahriar-Al-Mohaiminul.
 
 Boss Fight with Gunman-
 The name sucks, I know. I just named it on the spot so that's that.
