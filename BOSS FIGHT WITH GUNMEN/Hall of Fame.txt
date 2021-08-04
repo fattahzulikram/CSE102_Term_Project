@@ -1,0 +1,5 @@
+ASDF 21
+GALIB 12
+ddddda 8
+4 4
+4 4
